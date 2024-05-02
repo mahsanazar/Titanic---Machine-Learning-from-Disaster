@@ -1,4 +1,4 @@
-# Titanic---Machine-Learning-from-Disaster
+
 # Titanic Machine Learning Model
 
 This project is a machine learning model built to predict the survival of passengers aboard the Titanic using the DecisionTreeClassifier algorithm.
